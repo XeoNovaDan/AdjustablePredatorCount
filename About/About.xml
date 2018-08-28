@@ -3,6 +3,6 @@
 	<name>[XND] Adjustable Predator Count</name>
 	<author>XeoNovaDan</author>
 	<url>https://ludeon.com/forums/index.php?topic=29503.0</url>
-	<targetVersion>1.0.0</targetVersion>
-	<description>Current version: v1.0 (20th June 2018)\n\nA small mod that allows you to globally adjust the likelihood of which predators will spawn in biomes.\n\nNo predators? No problem. Want loads of predators? Go right ahead! The world is your oyster.</description>
+	<targetVersion>0.19.0</targetVersion>
+	<description>Current version: v1.0.1 (28th August 2018)\n\nA small mod that allows you to globally adjust the likelihood of which predators will spawn in biomes. Works with both vanilla and modded animals.\n\nNo predators? No problem. Want loads of predators? Go right ahead!</description>
 </ModMetaData>

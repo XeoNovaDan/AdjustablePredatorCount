@@ -2,3 +2,7 @@ E:\Documents\My RimWorld Mods\V1.0\AdjustablePredatorCount\Assemblies\Adjustable
 E:\Documents\My RimWorld Mods\V1.0\AdjustablePredatorCount\Source\AdjustablePredatorCount\AdjustablePredatorCount\obj\Debug\AdjustablePredatorCount.csprojAssemblyReference.cache
 E:\Documents\My RimWorld Mods\V1.0\AdjustablePredatorCount\Source\AdjustablePredatorCount\AdjustablePredatorCount\obj\Debug\AdjustablePredatorCount.csproj.CoreCompileInputs.cache
 E:\Documents\My RimWorld Mods\V1.0\AdjustablePredatorCount\Source\AdjustablePredatorCount\AdjustablePredatorCount\obj\Debug\AdjustablePredatorCount.dll
+E:\Documents\My RimWorld Mods\B19\AdjustablePredatorCount\Assemblies\AdjustablePredatorCount.dll
+E:\Documents\My RimWorld Mods\B19\AdjustablePredatorCount\Source\AdjustablePredatorCount\AdjustablePredatorCount\obj\Debug\AdjustablePredatorCount.csprojAssemblyReference.cache
+E:\Documents\My RimWorld Mods\B19\AdjustablePredatorCount\Source\AdjustablePredatorCount\AdjustablePredatorCount\obj\Debug\AdjustablePredatorCount.csproj.CoreCompileInputs.cache
+E:\Documents\My RimWorld Mods\B19\AdjustablePredatorCount\Source\AdjustablePredatorCount\AdjustablePredatorCount\obj\Debug\AdjustablePredatorCount.dll
