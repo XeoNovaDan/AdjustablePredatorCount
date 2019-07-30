@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-    <AdjustablePredatorCountTitle>Adjustable Predator Count</AdjustablePredatorCountTitle>
-
-    <SettingPredatorCommonalityFactorLabel>Global Predator Commonality Multiplier</SettingPredatorCommonalityFactorLabel>
-    <SettingPredatorCommonalityFactorTooltip>Requires a restart to take effect. Value can be a decimal number.</SettingPredatorCommonalityFactorTooltip>
+    <AdjustablePredatorCount.SettingsCategory>Adjustable Predator Count</AdjustablePredatorCount.SettingsCategory>
+    <AdjustablePredatorCount.PredatorCommonalityMultiplier>Predator commonality multiplier</AdjustablePredatorCount.PredatorCommonalityMultiplier>
 
 </LanguageData>
