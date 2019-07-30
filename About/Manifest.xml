@@ -1,6 +1,6 @@
 <Manifest>
     <identifier>AdjustablePredatorCount</identifier>
+    <manifestUri>https://cdn.jsdelivr.net/gh/XeoNovaDan/AdjustablePredatorCount/About/Manifest.xml</manifestUri>
     <version>1.1</version>
-    <manifestUri>https://rawgit.com/XeoNovaDan/AdjustablePredatorCount/master/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/XeoNovaDan/AdjustablePredatorCount/releases</downloadUri>
 </Manifest>
